@@ -16,4 +16,4 @@ spec:
       - name: example-container
         image: sharikm/malik
         ports:
-        - containerPort: 80
+        - containerPort: 85
